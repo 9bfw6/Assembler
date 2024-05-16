@@ -2,7 +2,7 @@ The use my assembler:
 
 1. Ensure that you have access to linux.
 2. Open the linux command line.
-2. Clone the Assembler repository remotely.
+2. Clone the Assembler repository locally.
 3. Navigate to the repository directory.
 4. Type 'make'.
 5. The code is now compiled. Next, type './project2 <filename>', where filename is one of the many .sic files
